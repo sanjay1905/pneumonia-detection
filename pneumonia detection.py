@@ -5,7 +5,6 @@ import matplotlib.pyplot as plt
 
 # Importing necessary modules from TensorFlow.
 import tensorflow as tf
-import tensorflow_datasets as tfds
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import BatchNormalization, Conv2D, Dense, Dropout, Flatten, MaxPooling2D, Rescaling
 
