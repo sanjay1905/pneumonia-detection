@@ -1,19 +1,3 @@
-"""
-                Mini Project:
-
-            Pneunomia Detection / Classification with CNN.
-
-    Author: Howard Anderson.
-
-    Date: 26/06/2023.
-
-    Filename: pneunomia.py
-
-    Description: Source file for Pneunomia Detector model.
-
-"""
-
-
 # Importing necessary Libraries.
 import numpy as np
 import pandas as pd
